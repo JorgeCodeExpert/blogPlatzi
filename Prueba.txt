@@ -1,3 +1,5 @@
 Archivo de prueba   
 
 Voy a ver si se guarda o no como txt en Mac
+
+Funciona, abre una app que nunca habia visto
