@@ -3,3 +3,6 @@ Archivo de prueba
 Voy a ver si se guarda o no como txt en Mac
 
 Funciona, abre una app que nunca habia visto
+Commit para agregar una nueva linea, prueba 
+
+Relativamente es facil aprender Git.
