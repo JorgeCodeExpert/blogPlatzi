@@ -1,4 +1,19 @@
 body {
     text-align: center;
     font: 1em sans-serif;
+    font-size: 16px;
+    margin: 1rem;
+    padding: 0;
 }
+
+.Container {
+    width: 70%;
+    padding: 1em;
+    border: 1px black solid;
+    margin: 0 auto;
+}
+
+.Container p {
+    text-align: left;
+}
+
