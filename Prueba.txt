@@ -7,3 +7,6 @@ Commit para agregar una nueva linea, prueba
 
 Relativamente es facil aprender Git.
 Ahora, la ruta debera ser, certificar Angular y Adobe Xd
+
+Agregue las llaves de seguridad, necesito probar si me pide contraseña cada 
+que haga pull o push
